@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/ParnThanatibordee/demo-pyci.svg?branch=master)](https://travis-ci.com/ParnThanatibordee/demo-pyci)
+[![Build Status](https://travis-ci.com/ParnThanatibordee/demo-pyci.svg?branch=master)](https://travis-ci.com/ParnThanatibordee/demo-pyci)  
+[![codecov](https://codecov.io/gh/ParnThanatibordee/demo-pyci/branch/master/graph/badge.svg?token=VVD4CJ7I09)](https://codecov.io/gh/ParnThanatibordee/demo-pyci)  
 
 Continuous Integration Demo
 ============================
